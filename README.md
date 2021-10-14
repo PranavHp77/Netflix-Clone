@@ -1,1 +1,3 @@
-# Netflix-Clone using react,REST Api
+# Netflix-Clone using 
+React js
+RESTful Api
